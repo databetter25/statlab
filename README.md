@@ -13,7 +13,7 @@
 
 ### 1. 📜 통계학의 역사
 위키피디아와 다양한 역사적 문헌 자료를 바탕으로 통계학의 발전 흐름을 정리했습니다.
-- 🔗 **[통계학의 역사 바로가기](https://data-better.github.io/statistics-history/)**
+- 🔗 [통계학의 역사 바로가기](https://data-better.github.io/statistics-history/)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 3. 📖 통계학 용어사전
 한국통계학회 자료를 바탕으로 구성한 한국어-영어 통계학 용어 대조 목록입니다.
-- 🔗 **[통계학 용어목록 바로가기](https://databetter25.github.io/stat-dict/)**
+- 🔗 [통계학 용어목록 바로가기](https://databetter25.github.io/stat-dict/)
 
 ---
 
@@ -53,10 +53,10 @@
 
 ### 6. 📚 통계적 사고 관련 추천 도서
 통계적 사고력을 넓히는 데 도움이 되는 추천 도서 목록과 서평 페이지입니다.
-- 🔗 **[추천 도서 목록 바로가기](https://data-better.github.io/library/)**
+- 🔗 [추천 도서 목록 바로가기](https://data-better.github.io/library/)
 
 ---
 
 ## 📬 피드백 및 문의
 - **GitHub Issues**: 저장소 상단의 `Issues` 탭에 의견 등록
-- **이메일**: `[교수님 이메일 주소 입력]`
+- **이메일**: `[geunghee@knou.ac.kr]`
